@@ -13,7 +13,7 @@
 - 💞️ I’m really into making a Drone Fleet powered by an AI (lol)
 - 👨‍💻 All of my projects are available at [anas-yunus.github.io](anas-yunus.github.io)
 
-- ⚡ Fun fact **Dont know any**
+- ⚡ Fun fact **Tomato is a fruit ahm**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
