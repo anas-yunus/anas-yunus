@@ -10,7 +10,7 @@
 
 - 👀 I’m interested in AI and stuff and also Drones
 - 🌱 I’m currently learning JS from my bedroom
-- 💞️ I’m really into making a Drone Fleet powered by an AI (lol)
+- 💞️ I’m trying to make a Drone Fleet powered by an AI (lol)
 - 👨‍💻 All of my projects are available at [anas-yunus.github.io](anas-yunus.github.io)
 
 - ⚡ Fun fact **Tomato is a fruit ahm**
