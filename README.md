@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/anasyunus_" target="blank"><img src="https://img.shields.io/twitter/follow/anasyunus_?logo=twitter&style=for-the-badge" alt="anasyunus_" /></a> </p>
 
-- 👀 I’m interested in AI and stuff and also Drones
-- 🌱 I’m currently learning JS from my bedroom
-- 💞️ I’m trying to make a Drone Fleet powered by an AI (lol)
+- 👀 Interested in Computers and stuff
+- 🌱 Currently learning Computer Vision from my bedroom
+- 💞️ Trying to make killer flying machines powered by AI (lol)
 - 👨‍💻 All of my projects are available at [anas-yunus.github.io](anas-yunus.github.io)
 
 - ⚡ Fun fact **Tomato is a fruit ahm**
