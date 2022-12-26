@@ -2,10 +2,10 @@
 <h3 align="center">student / passionate dev</h3>
 <img height="250px" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-yunus&label=Profile%20views&color=0e75b6&style=flat" alt="anas-yunus" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anas-yunus" alt="anas-yunus" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anas-yunus&label=Profile%20views&color=0e75b6&style=flat" alt="anas-yunus" /> </p>
+<img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=SOLVED&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fanasyunus&logo=leetcode&logoColor=yellow">
 <p align="left"> <a href="https://twitter.com/anasyunus_" target="blank"><img src="https://img.shields.io/twitter/follow/anasyunus_?logo=twitter&style=for-the-badge" alt="anasyunus_" /></a> </p>
 
 - 👀 Interested in Computers and stuff
