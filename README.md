@@ -10,7 +10,7 @@
 - 🌱 Currently learning Containerization and Deployment
 - 🚀 Building AI-powered projects, from chatbots to real-time-drones
 - 🔗 Check out my work: anas-yunus.github.io
-- ⚡ Fun fact I'm working as a research intern at Samsung R&D Institute
+- ⚡ Working as a research intern at Samsung R&D Institute
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
