@@ -8,10 +8,10 @@
 <img src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=SOLVED&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fanasyunus&logo=leetcode&logoColor=yellow">
 <p align="left"> <a href="https://twitter.com/anasyunus_" target="blank"><img src="https://img.shields.io/twitter/follow/anasyunus_?logo=twitter&style=for-the-badge" alt="anasyunus_" /></a> </p>
 
-- 👀 Interested in Computers and stuff
-- 🌱 Currently learning Computer Vision from my bedroom
-- 💞️ Trying to make killer flying machines powered by AI (lol)
-- 👨‍💻 All of my projects are available at [anas-yunus.github.io](anas-yunus.github.io)
+- 👀 Passionate about AI, Computer Vision, Machine Learning and NLPs
+- 🌱 Currently learning Containerization and Deployment
+- 🚀 Building AI-powered projects, from chatbots to real-time-drones
+- 🔗 Check out my work: anas-yunus.github.io
 
 - ⚡ Fun fact **Tomato is a fruit ahm**
 
